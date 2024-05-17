@@ -1,9 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 - 👋 Hi, I’m Bryan Batsukh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
+- I Love to play basketball , pingpong, travel, pc games, 
 - ⚡ Fun fact: Bass Player, Have 2 beautiful angels 
 
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

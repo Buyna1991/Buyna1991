@@ -4,7 +4,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... Bsscool@yahoo.com
 - 😄 Pronouns: He/Him
 - I Love to play basketball , pingpong, travel, pc games, 
 - ⚡ Fun fact: Bass Player, Have 2 beautiful angels 
